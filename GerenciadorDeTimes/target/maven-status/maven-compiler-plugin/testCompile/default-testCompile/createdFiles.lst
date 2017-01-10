@@ -1,0 +1,8 @@
+br\edu\utfpr\biblioteca\salas\dao\EstudanteDAOTest.class
+br\edu\utfpr\biblioteca\salas\dao\ReservaDAOTest.class
+br\edu\utfpr\biblioteca\salas\dao\AdministradorDAOTest.class
+br\edu\utfpr\biblioteca\salas\model\bo\ReservaBOTest.class
+br\edu\utfpr\biblioteca\salas\controller\ReservaRapidaMBTest.class
+br\edu\utfpr\biblioteca\salas\dao\StatusDAOTest.class
+br\edu\utfpr\biblioteca\salas\controller\AdministradorMBTest.class
+br\edu\utfpr\biblioteca\salas\dao\SalaDAOTest.class
